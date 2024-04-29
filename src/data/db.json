@@ -391,6 +391,12 @@
       "price": 10,
       "categoryId": 1,
       "id": 63
+    },
+    {
+      "id": 64,
+      "name": "Product 007",
+      "price": 238,
+      "categoryId": 3
     }
   ]
 }
